@@ -1,4 +1,4 @@
-# Spotify Data Analysis
+# Imbalanced Regression and Classification for Spotify Prediction
 ## Introduction
 In practice, data often faces the problem of imbalanced distribution, where certain target variable values have significantly fewer observations than others. For example, in music, producers may predict if a song will become a hit to adjust its elements. However, hit songs usually have far fewer observations than non-hits, leading to imbalanced data for the hit evaluation variable. Machine Learning and Deep Learning algorithms tend to improve accuracy by minimizing errors, often ignoring the target variable's distribution. This causes models to favor predicting the majority class and misclassify the minority. <br>
 
